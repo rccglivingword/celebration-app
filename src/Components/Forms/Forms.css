@@ -1,0 +1,36 @@
+.formsection{
+    display: flex;
+    flex-direction: column;
+    margin: auto;
+    margin-top: 80px;
+    width: 1000px;
+    height: 500px;
+    background: #fff;
+    padding-bottom: 15px;
+}
+.header{
+    text-align: center;
+    padding-bottom: 40px;
+    color: blueviolet;
+}
+.form-text{
+    color:navy;
+}
+.submitbutton{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 220px;
+    height: 59px;
+    color: #fff;
+    border-radius: 50px;
+    font-size: 19px;
+    font-weight: 700;
+    cursor: pointer;
+    gap: 30px;
+    margin: 60px auto;
+
+}
+.form-content{
+    margin: 20px;
+}
